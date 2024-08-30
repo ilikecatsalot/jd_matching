@@ -1,0 +1,13 @@
+Flask==2.3.2
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+docx2txt==0.8
+sqlite3==0.0.1
+nltk==3.8.1
+mammoth==1.4.2
+langchain==0.0.291
+langchain-community==0.0.2
+sentence-transformers==2.2.2
+striprtf==0.0.3
+google-generativeai==1.0.3
+FAISS==1.7.4
